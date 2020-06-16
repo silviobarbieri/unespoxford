@@ -1,0 +1,13 @@
+012 zz 1 zz 0 zz 0 zz 1 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 1 zz 0 zz 30 zz 12 zz 2013 zz 85 zz 
+013 zz 1 zz 0 zz 0 zz 1 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 0 zz 1 zz 30 zz 12 zz 2013 zz 85 zz 
+014 zz 1 zz 0 zz 0 zz 1 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 1 zz 0 zz 30 zz 12 zz 2013 zz 85 zz 
+015 zz 1 zz 0 zz 0 zz 1 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 0 zz 1 zz 30 zz 12 zz 2013 zz 85 zz 
+016 zz 1 zz 0 zz 0 zz 1 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 1 zz 0 zz 30 zz 12 zz 2013 zz 85 zz 
+077 zz 1 zz 0 zz 1 zz 0 zz 0 zz 1 zz 0 zz 1 zz 0 zz 0 zz 1 zz 0 zz 30 zz 12 zz 2013 zz 34 zz 
+076 zz 1 zz 0 zz 1 zz 0 zz 0 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 1 zz 30 zz 12 zz 2013 zz 34 zz 
+079 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 1 zz 0 zz 6 zz 1 zz 2014 zz 54 zz 
+088 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 0 zz 1 zz 6 zz 1 zz 2014 zz 56 zz 
+089 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 1 zz 0 zz 6 zz 1 zz 2014 zz 57 zz 
+090 zz 0 zz 1 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 0 zz 1 zz 6 zz 1 zz 2014 zz 57 zz 
+099 zz 1 zz 0 zz 0 zz 1 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 0 zz 1 zz 6 zz 1 zz 2014 zz 76 zz 
+087 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 1 zz 0 zz 0 zz 0 zz 1 zz 0 zz 6 zz 1 zz 2014 zz 54 zz 
