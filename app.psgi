@@ -2,7 +2,7 @@
 
 <h1>Allocation</h1>
 <p>&nbsp;</p>
-<strong>Form to allocate a participant </strong><form action="http://users.ox.ac.uk/cgi-bin/safeperl/clme0164/oxmarallocation.cgi" method="post">
+<strong>Form to allocate a participant </strong><form action="https://unespoxford.herokuapp.com/oxmarallocation.cgi" method="post">
 <h1><span style="font-family: Arial, Helvetica, sans-serif; color: #330066; font-size: small;"><input name="fromwho" type="hidden" value="name@domain.ac.uk" /> <input name="replytowho" type="hidden" value="name@domain.ac.uk" /> <input name="replyfromwho" type="hidden" value="name@domain.ac.uk" /> <input name="replywhatsubject" type="hidden" value="replywhatsubjecttext" /> <input name="replywhatcontents" type="hidden" value="replywhatcontentstext" /> <input name="source" type="hidden" value="booked" /> <input name="sendformto" type="hidden" value="name@domain.ac.uk" /> </span></h1>
 <p>If you wish to perform an allocation complete all parts of this form. <br />You must complete a separate form for each allocation.</p>
 <p>Your email address: <input name="whatsubmitteremail" size="35" type="text" /></p>
