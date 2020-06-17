@@ -95,7 +95,7 @@ print<<"bodytext";
 
 
 <FORM
-ACTION="https://unespoxford.herokuapp.com/oxmarconfirmallocation.cgi"
+ACTION="https://unespoxford.herokuapp.com/oxmarconfirmallocation.psgi"
 METHOD=POST>
 
 <INPUT TYPE=hidden NAME=participantidwhat VALUE=$participantid>
