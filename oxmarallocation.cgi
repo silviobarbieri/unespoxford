@@ -1,4 +1,5 @@
-#!/usr/bin/perl5
+#!/usr/bin/env perl
+use Mojolicious::Lite;
 
 #call subroutine to parse the form contents
 &parsing;  
