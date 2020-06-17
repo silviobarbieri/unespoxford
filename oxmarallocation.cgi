@@ -94,7 +94,7 @@ print<<"bodytext";
 
 
 <FORM
-ACTION="http://users.ox.ac.uk/cgi-bin/safeperl/clme0164/oxmarconfirmallocation.cgi"
+ACTION="https://unespoxford.herokuapp.com/oxmarconfirmallocation.cgi"
 METHOD=POST>
 
 <INPUT TYPE=hidden NAME=participantidwhat VALUE=$participantid>
